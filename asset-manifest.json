@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/octavian-regatun.github.io/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/octavian-regatun.github.io/static/js/main.025246d5.chunk.js",
+    "main.js.map": "/octavian-regatun.github.io/static/js/main.025246d5.chunk.js.map",
+    "runtime-main.js": "/octavian-regatun.github.io/static/js/runtime-main.b6a13062.js",
+    "runtime-main.js.map": "/octavian-regatun.github.io/static/js/runtime-main.b6a13062.js.map",
+    "static/js/2.29138628.chunk.js": "/octavian-regatun.github.io/static/js/2.29138628.chunk.js",
+    "static/js/2.29138628.chunk.js.map": "/octavian-regatun.github.io/static/js/2.29138628.chunk.js.map",
+    "index.html": "/octavian-regatun.github.io/index.html",
+    "precache-manifest.0d0914b058b4d81d8c4f1c804bd2cb96.js": "/octavian-regatun.github.io/precache-manifest.0d0914b058b4d81d8c4f1c804bd2cb96.js",
+    "service-worker.js": "/octavian-regatun.github.io/service-worker.js",
+    "static/css/main.5e4e9510.chunk.css.map": "/octavian-regatun.github.io/static/css/main.5e4e9510.chunk.css.map",
+    "static/media/image1.svg": "/octavian-regatun.github.io/static/media/image1.e850480d.svg",
+    "static/media/logo.png": "/octavian-regatun.github.io/static/media/logo.f6cb90e7.png",
+    "static/media/profilepic.png": "/octavian-regatun.github.io/static/media/profilepic.96153f08.png",
+    "static/media/unity.png": "/octavian-regatun.github.io/static/media/unity.948483a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6a13062.js",
+    "static/js/2.29138628.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.025246d5.chunk.js"
+  ]
+}
